@@ -9,3 +9,6 @@ Para la ejecución es necesario tener instalado ruby on rails en el computador p
 
 Ingresas al nevegador y colocarla siguiente ruta en URL 
 localhost:3000
+
+# Para ingresar como administrador ingresar a la URL 
+localhost:3000/administrador
